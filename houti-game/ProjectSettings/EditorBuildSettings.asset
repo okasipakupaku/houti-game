@@ -11,4 +11,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HomeScene.unity
     guid: 1dab3e7122aa7c14e90f9d0637d5e528
+  - enabled: 1
+    path: Assets/Scenes/GachaHome.unity
+    guid: 7673c7716226f8f4f86056f6bcb8463b
+  - enabled: 1
+    path: Assets/Scenes/Dungeon/DungeonHome.unity
+    guid: dd1b406304dd246468092cd5204f8882
+  - enabled: 1
+    path: Assets/Scenes/Training/TrainingHome.unity
+    guid: 59bfd35374eac544f83acd5bc66d5ae3
   m_configObjects: {}
