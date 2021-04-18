@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class TitleManager : MonoBehaviour
+public class ButtonManager : MonoBehaviour
 {
     // Start is called before the first frame update
     void Start()
@@ -16,10 +16,24 @@ public class TitleManager : MonoBehaviour
     {
         
     }
-
     public void PushStartButton()
     {
         SceneManager.LoadScene("MainGameScene");
         SceneManager.LoadScene("HomeScene");
+    }
+
+    public void PushDungeonButton()
+    {
+        SceneManager.LoadScene("DungeonHome");
+    }
+
+    public void PushGachaButton()
+    {
+        SceneManager.LoadScene("GachaHome");
+    }
+
+    public void PushTrainingButton()
+    {
+        SceneManager.LoadScene("TrainingHome");
     }
 }

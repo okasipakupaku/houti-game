@@ -553,7 +553,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1211822551}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dcb80abb6724899489de3cf36aa64f8d, type: 3}
+  m_Script: {fileID: 11500000, guid: 110a3a84fa7654146a5cc7513239e37c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!4 &1211822553
@@ -654,7 +654,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1211822552}
-        m_TargetAssemblyTypeName: TitleManager, Assembly-CSharp
+        m_TargetAssemblyTypeName: ButtonManager, Assembly-CSharp
         m_MethodName: PushStartButton
         m_Mode: 1
         m_Arguments:
