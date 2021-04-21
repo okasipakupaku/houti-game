@@ -18,6 +18,7 @@ public class ButtonManager : MonoBehaviour
     }
     public void PushStartButton()
     {
+        SceneManager.LoadScene("MainGameScene");
      
         SceneManager.LoadScene("HomeScene");
     }
