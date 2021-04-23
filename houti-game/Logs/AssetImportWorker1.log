@@ -1,0 +1,173 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.928; Version 2009; 64bit' Language: 'ja' Physical Memory: 8109 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/houti-game/houti-game
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+59761
+Successfully changed project path to: C:/houti-game/houti-game
+C:/houti-game/houti-game
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 115.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/houti-game/houti-game/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   
+    VRAM:     4054 MB
+    Driver:   27.20.100.8681
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56572
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005642 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 103.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.675 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004322 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 95.00 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.048 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.33 seconds
+Refreshing native plugins compatible for Editor in 1.02 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1811 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2253.
+Total: 6.784800 ms (FindLiveObjects: 0.558500 ms CreateObjectMapping: 0.185200 ms MarkObjects: 5.610100 ms  DeleteObjects: 0.426600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/GachaHome.unity
+  artifactKey: Guid(7673c7716226f8f4f86056f6bcb8463b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GachaHome.unity using Guid(7673c7716226f8f4f86056f6bcb8463b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '528985d0b9e4469799128b426d54be4f') in 0.054065 seconds
+  Import took 0.069053 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006287 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.179 seconds
+Platform modules already initialized, skipping
+Switching build target platform(5) subTarget(0) extendedPlatform(0) -> platform(13) subTarget(537395200) extendedPlatform(0)
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1809 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.6 MB.
+System memory in use after: 87.6 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2257.
+Total: 11.442400 ms (FindLiveObjects: 0.740600 ms CreateObjectMapping: 0.549700 ms MarkObjects: 9.590100 ms  DeleteObjects: 0.555400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:graphics/normal-map-encoding: 01000000000000000000000000000000 -> 02000000000000000000000000000000
+========================================================================
+Received Import Request.
+  Time since last request: 1593.457636 seconds.
+  path: Assets/Resources/Fonts
+  artifactKey: Guid(5fe8e86f75c9cc64ab4f69faf1870a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Fonts using Guid(5fe8e86f75c9cc64ab4f69faf1870a16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f41ccf9368a7f007f82e497baa1cc788') in 0.025622 seconds
+  Import took 0.044490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 511.689300 seconds.
+  path: Assets/Resources/Fonts/PixelMplus-20130602.zip
+  artifactKey: Guid(2f2c81ef465df2e4aac69f756fff03e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Fonts/PixelMplus-20130602.zip using Guid(2f2c81ef465df2e4aac69f756fff03e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79db1162cfe2344eb5858d470fa053c9') in 0.237212 seconds
+  Import took 0.253193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.783608 seconds.
+  path: Assets/Resources/Fonts/PixelMplus-20130602
+  artifactKey: Guid(56784d7650264c54fa1aa476cd44e83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Fonts/PixelMplus-20130602 using Guid(56784d7650264c54fa1aa476cd44e83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45d2bca3c126b2de638bab632120172d') in 0.004016 seconds
+  Import took 0.026638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002867 seconds.
+  path: Assets/Resources/Fonts/PixelMplus-20130602
+  artifactKey: Guid(56784d7650264c54fa1aa476cd44e83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Fonts/PixelMplus-20130602 using Guid(56784d7650264c54fa1aa476cd44e83a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45d2bca3c126b2de638bab632120172d') in 0.004292 seconds
+  Import took 0.013801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.611653 seconds.
+  path: Assets/Resources/Fonts/PixelMplus-20130602/PixelMplus10-Bold.ttf
+  artifactKey: Guid(4d6bce4c0999a2843b353f17e56c9391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Fonts/PixelMplus-20130602/PixelMplus10-Bold.ttf using Guid(4d6bce4c0999a2843b353f17e56c9391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d2352076d53e9f589522f9679f97eb3') in 0.668217 seconds
+  Import took 0.683462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012380 seconds.
+  path: Assets/Resources/Fonts/PixelMplus-20130602/PixelMplus10-Regular.ttf
+  artifactKey: Guid(063a6b86fe1a74e4b88e2d40c7555ed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Fonts/PixelMplus-20130602/PixelMplus10-Regular.ttf using Guid(063a6b86fe1a74e4b88e2d40c7555ed6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90e1b5095ca437af8b829f1dcef64895') in 0.041436 seconds
+  Import took 0.053101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000600 seconds.
+  path: Assets/Resources/Fonts/PixelMplus-20130602/PixelMplus12-Bold.ttf
+  artifactKey: Guid(608c293b315a7ed42a076fefdeb2268d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Fonts/PixelMplus-20130602/PixelMplus12-Bold.ttf using Guid(608c293b315a7ed42a076fefdeb2268d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '533d81465c65f095c403586e08ae34ce') in 0.037463 seconds
+  Import took 0.048140 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000638 seconds.
+  path: Assets/Resources/Fonts/PixelMplus-20130602/PixelMplus12-Regular.ttf
+  artifactKey: Guid(5eecdf02116b0504096ef042dd1c4c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/Fonts/PixelMplus-20130602/PixelMplus12-Regular.ttf using Guid(5eecdf02116b0504096ef042dd1c4c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '922b166c24178f8a65d1e447ad8654cb') in 0.038042 seconds
+  Import took 0.047210 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
