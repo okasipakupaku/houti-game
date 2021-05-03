@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class GachaGameManager : MonoBehaviour
 {
     public GameObject gachaWalls;
+    
 
     private int wallNo;
 
@@ -52,7 +53,7 @@ public class GachaGameManager : MonoBehaviour
     public void PushBackGachaHome()//ÉKÉ`ÉÉÉzÅ[ÉÄÇ…Ç‡Ç«ÇÈ
     {
         wallNo = 1;
-        DisplayGacha();
+        DisplayGacha(wallNo);
     }
 
 
@@ -83,4 +84,7 @@ public class GachaGameManager : MonoBehaviour
         }
     }
 
+    
+
+   
 }
