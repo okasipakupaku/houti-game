@@ -1,5 +1,13 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/GachaHome.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Scenes/TitleScene.unity
+=======
+- path: Assets/Scenes/HomeScene.unity
+>>>>>>> cc6d0924545281a4d88139f3946cbafec1b2453c
+>>>>>>> fc341b7df0ab6b1e8a26a9d6f17f5bf1a95f35f0
   isLoaded: 1
   isActive: 1
   isSubScene: 0

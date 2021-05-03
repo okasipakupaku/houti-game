@@ -18,7 +18,7 @@ public class ButtonManager : MonoBehaviour
     }
     public void PushStartButton()
     {
-        SceneManager.LoadScene("HomeScene");
+       SceneManager.LoadScene("HomeScene");
     }
 
     public void PushDungeonButton()
